@@ -36,6 +36,6 @@ O sistema apresenta o seguinte menu:
 - Programação Orientada a Objetos (POO)
 - Encapsulamento (uso de atributos privados com getters e setters)
 - Manipulação de listas com ArrayList
-- Estruturas de controle (if, switch, laços de repetição)
+- Estruturas de controle
 - Lógica de programação aplicada na construção do sistema
 ---
